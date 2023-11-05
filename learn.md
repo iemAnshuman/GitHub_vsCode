@@ -44,5 +44,9 @@ print("do nothing")
     init: used to creat a new git repo
 1. git init: let's say you created a dir without git repo then to create
             a git repo in that dir, use this command
-2. git remote add origin <-link->: 
+2. git remote add origin <-link->: to add a remote repos in a dir
+3. git remote -v: to check origin or to verify remote 
+4. git branch: to check branch 
+#### branch: copies of main program in which changes are being made
+
     
