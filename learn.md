@@ -47,6 +47,8 @@ print("do nothing")
 2. git remote add origin <-link->: to add a remote repos in a dir
 3. git remote -v: to check origin or to verify remote 
 4. git branch: to check branch 
-#### branch: copies of main program in which changes are being made
-
-    
+#### Branch: copies of main program in which changes are being made 
+5. git branch -M main: to rename a branch to main, here main is a name you can replace it
+                        with word of your choice
+6. git push -u origin main: this tells that you always want push to origin main 
+                            after that you can simply use git push 
