@@ -35,3 +35,6 @@ print("do nothing")
     ex: git add learn.md
 2. commit: it is the record of change
     git commit -m "some message"
+3. push: upload local repo content to remote repo 
+    git push origin main
+    
