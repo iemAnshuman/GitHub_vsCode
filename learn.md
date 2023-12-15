@@ -1,4 +1,6 @@
 # This is a header (use #)
+### Always use .md extension for git 
+
 ## This is a sub-header (use ##)
 1. Item1 (use  1. )
 2. Item2
@@ -33,11 +35,14 @@ print("do nothing")
 
 ### To Save:
 1. add: adds new changed files in your working directory to the Git staging area
+    <br>
     git add <-file name->
     ex: git add learn.md
 2. commit: it is the record of change
+    <br>
     git commit -m "some message"
 3. push: upload local repo content to remote repo 
+    <br>
     git push origin main
 
 ## Init command
